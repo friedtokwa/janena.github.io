@@ -75,7 +75,7 @@
                     <div class="relative w-full pb-[56.25%] h-0 rounded-xl overflow-hidden bg-black">
                         <!-- Replace with your actual video URL -->
                         <video controls class="absolute top-0 left-0 w-full h-full" poster="placeholder.jpg" autoplay muted>
-                            <source src="janena-tribute-video.mp4" type="video/mp4">
+                            <source src="https://celeritybpo.x10.mx/janena/janena-tribute-video.mp4" type="video/mp4">
                             Your browser does not support the video tag.
                         </video>
                         <!-- If using YouTube/Vimeo embed:
